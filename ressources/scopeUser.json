@@ -1,0 +1,17 @@
+{
+    "data":[
+        {
+            "scopeName":"deleted:profil",
+            "scopeDescript":"permissions de supprimer son profil"
+        },
+        {
+            "scopeName":"updated:profil",
+            "scopeDescript":"permissions de mis à jour de son profil"
+        },
+                 
+    	{
+             "scopeName":"updated:user",
+             "scopeDescript":"permissions de mis à jour de son compte"
+    	}
+    ]
+}
